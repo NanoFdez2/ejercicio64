@@ -63,3 +63,4 @@ Console.WriteLine($"La temperatura máxima fue de {maxtemp}° Celsius y fue en e
 Console.WriteLine($"La temperatura mínima fue de {mintemp}° Celsius y fue en el día {diamin}.");
 Console.WriteLine($"El promedio de temperatura es {promedio}° Celsius.");
 Console.WriteLine("Carlitos entrega la nena");
+Console.WriteLine("santi gay");
